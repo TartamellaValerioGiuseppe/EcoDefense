@@ -5,5 +5,5 @@ Gioco sviluppato con Unity nell'anno 2025 di tipologia tower defense con tema de
 - [Valerio Giuseppe Tartamella](https://github.com/TartamellaValerioGiuseppe) Ruolo: Graphic Designer, Sviluppatore
 - [MarcoBenedettini](https://github.com/MarcoBenedettini) Ruolo: Graphic Designer, Sviluppatore
 - [Nessunop](https://github.com/Nessunop) Ruolo: Programmatore, Game Tester
-- [Hetmanov Dovolim](https://github.com/Dovolim): Game Tester
+- [Dovolim](https://github.com/Dovolim): Game Tester
 - [Emanuele Polini](https://github.com/EmanuelePolini) Ruolo: Boss Finale 
